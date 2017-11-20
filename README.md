@@ -4,6 +4,20 @@ Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on m
 You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Downloads
 (Because someone complained about this readme you know who you are)
 
