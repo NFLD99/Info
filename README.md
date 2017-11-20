@@ -1,9 +1,7 @@
 # Info
-Downloads, Previews, Support, Updates, Wikis, Sponsors and Guides are found here,
-https://discord.gg/K6Gevwk
+Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on my [Discord Server](https://discord.gg/K6Gevwk)
 
-You can view my source from the other repo,
-https://github.com/NFLD99/Better-Discord
+You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
 
 # Downloads
