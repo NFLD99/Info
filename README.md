@@ -4,8 +4,11 @@ Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on m
 You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
 
+Everything else
+(Because someone did not like this readme you know who you are)
+
+
 # Downloads
-(Because someone complained about this readme you know who you are)
 
 
 # Main Themes
@@ -46,3 +49,38 @@ You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Dis
  * [Status Borders](https://betterdiscord.net/ghdl?id=1008)
 
  * [User Popout](https://betterdiscord.net/ghdl?id=866)
+ 
+ 
+# Previews
+
+
+All found on the [Discord Server](https://discord.gg/K6Gevwk) under Previews Category.
+
+
+# Support
+
+
+I provide support on my [Discord Server](https://discord.gg/K6Gevwk) under Support Category.
+
+
+# Updates
+
+
+All my themes auto update, you will be notified of any new updates(includeing if a theme file redownload is needed) on my [Discord Server](https://discord.gg/K6Gevwk)
+
+
+# Wiki
+
+
+Found on the [Discord Server](https://discord.gg/K6Gevwk) under Important Category.
+
+
+# Guides
+
+
+[How To Install](https://www.youtube.com/watch?v=nXVAHmyoUTw&feature=youtu.be)
+
+
+# Sponsors
+
+Found on the [Discord Server](https://discord.gg/K6Gevwk) under Important 2 Category.
