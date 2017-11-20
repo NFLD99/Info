@@ -1,4 +1,4 @@
-### Info
+# Info
 Downloads, Previews, Support, Updates, Wikis, Sponsors and Guides are found here,
 https://discord.gg/K6Gevwk
 
@@ -6,10 +6,10 @@ You can view my source from the other repo,
 https://github.com/NFLD99/Better-Discord
 
 
-### Downloads
+# Downloads
 (Because someone complained about this readme you know who you are)
 
-##Main Themes
+#Main Themes
 
 Scratched Up
 https://betterdiscord.net/ghdl?id=840
@@ -20,6 +20,7 @@ https://betterdiscord.net/ghdl?id=861
 Halloween
 https://betterdiscord.net/ghdl?id=1034
 #
+Winter
 https://betterdiscord.net/ghdl?id=1039
 #
 Anti-Lag
@@ -34,7 +35,7 @@ Portal Blue
 https://betterdiscord.net/ghdl?id=1161
 #
 
-##Mini/Nano Themes
+#Mini/Nano Themes
 
 Avatars
 https://betterdiscord.net/ghdl?id=862
