@@ -8,8 +8,8 @@ https://github.com/NFLD99/Better-Discord
 
 # Downloads
 (Because someone complained about this readme you know who you are)
-
-**Main Themes**
+---
+# Main Themes
 
 [Scratched Up](https://betterdiscord.net/ghdl?id=840)
 
@@ -27,7 +27,9 @@ https://github.com/NFLD99/Better-Discord
 
 [Portal Blue](https://betterdiscord.net/ghdl?id=1161)
 
-**Mini/Nano Themes**
+---
+
+# Mini/Nano Themes
 
 [Avatars](https://betterdiscord.net/ghdl?id=862)
 
