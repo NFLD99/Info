@@ -58,19 +58,12 @@ All found on the [Discord Server](https://discord.gg/K6Gevwk) under Previews Cat
 or
 
  * [Scratched Up](Previews/Scratched_Up)
-
  * [Mini Ladd](Previews/Mini_Ladd)
-
  * [Halloween](Previews/Halloween)
-
  * [Thanksgiving](Previews/Thanksgiving)
-
  * [Anti-Lag](Previews/Anti_Lag)
-
  * [Winter](Previews/Winter)
-
  * [Portal Orange](Previews/Portal_Orange)
-
  * [Portal Blue](Previews/Portal_Blue)
 
 # Support
