@@ -24,6 +24,7 @@ or
  * [Winter](https://betterdiscord.net/ghdl?id=1145)
  * [Portal Orange](https://betterdiscord.net/ghdl?id=1160)
  * [Portal Blue](https://betterdiscord.net/ghdl?id=1161)
+ * [X-Miss](https://betterdiscord.net/ghdl?id=1168)
 
 
 # Mini/Nano Themes
@@ -53,6 +54,7 @@ or
  * [Winter](Previews/Winter)
  * [Portal Orange](Previews/Portal_Orange)
  * [Portal Blue](Previews/Portal_Blue)
+ * [X-Miss](Previews/X-Miss)
 
 # Support
 
