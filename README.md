@@ -3,6 +3,7 @@ Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on m
 
 You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
+Please also install this [Plugin](https://betterdiscord.net/ghdl?id=1167) along with any one of my Main Themes.
 
 Everything else
 (Because someone did not like this readme you know who you are)
