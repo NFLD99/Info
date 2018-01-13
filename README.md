@@ -1,5 +1,5 @@
 # Info
-Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on my [Discord Server](https://discord.gg/K6Gevwk)
+Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on my [Discord Server](https://discord.gg/aSyUs69)
 
 You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
@@ -20,11 +20,18 @@ or
  * [Mini Ladd](https://betterdiscord.net/ghdl?id=861)
  * [Halloween](https://betterdiscord.net/ghdl?id=1034)
  * [Thanksgiving](https://betterdiscord.net/ghdl?id=1039)
- * [Anti-Lag](https://betterdiscord.net/ghdl?id=1146)
+ * [Anti Lag](https://betterdiscord.net/ghdl?id=1146)
  * [Winter](https://betterdiscord.net/ghdl?id=1145)
  * [Portal Orange](https://betterdiscord.net/ghdl?id=1160)
  * [Portal Blue](https://betterdiscord.net/ghdl?id=1161)
  * [X-Miss](https://betterdiscord.net/ghdl?id=1168)
+ * [One Up](https://betterdiscord.net/ghdl?id=1202)
+ * [Super Mario World](https://betterdiscord.net/ghdl?id=1203)
+ * [Mari Ohara] (https://betterdiscord.net/ghdl?id=1282)
+ * [Mitsuki] (https://betterdiscord.net/ghdl?id=1283)
+ * [Retro] (https://betterdiscord.net/ghdl?id=1284)
+ * [The Doc] (https://betterdiscord.net/ghdl?id=1285)
+ * [Twenty One Pilots] (https://betterdiscord.net/ghdl?id=1285)
 
 
 # Mini/Nano Themes
@@ -50,11 +57,13 @@ or
  * [Mini Ladd](Previews/Mini_Ladd)
  * [Halloween](Previews/Halloween)
  * [Thanksgiving](Previews/Thanksgiving)
- * [Anti-Lag](Previews/Anti_Lag)
+ * [Anti Lag](Previews/Anti_Lag)
  * [Winter](Previews/Winter)
  * [Portal Orange](Previews/Portal_Orange)
  * [Portal Blue](Previews/Portal_Blue)
  * [X-Miss](Previews/X-Miss)
+ * [One Up](Previews/One_Up)
+ * [Super Mario World](Previews/Super_Mario_World)
 
 # Support
 
