@@ -10,7 +10,7 @@ Everything else
 
 
 # Downloads
-All found on the [Discord Server](https://discord.gg/K6Gevwk) under the Important Category.
+All found on the [Discord Server](https://discord.gg/aSyUs69) under the Important Category.
 
 or
 
@@ -49,46 +49,52 @@ or
  
 # Previews
 
-All found on the [Discord Server](https://discord.gg/K6Gevwk) under the Previews Category.
+All found on the [Discord Server](https://discord.gg/aSyUs69) under the Previews Category.
 
 or
 
- * [Scratched Up](Previews/Scratched_Up)
- * [Mini Ladd](Previews/Mini_Ladd)
- * [Halloween](Previews/Halloween)
- * [Thanksgiving](Previews/Thanksgiving)
  * [Anti Lag](Previews/Anti_Lag)
- * [Winter](Previews/Winter)
- * [Portal Orange](Previews/Portal_Orange)
- * [Portal Blue](Previews/Portal_Blue)
- * [X-Miss](Previews/X-Miss)
+ * [Halloween](Previews/Halloween)
+ * [Mari Ohara](Previews/Mari_Ohara)
+ * [Mini Ladd](Previews/Mini_Ladd)
+ * [Mitsuki](Previews/Mitsuki)
  * [One Up](Previews/One_Up)
+ * [Portal Blue](Previews/Portal_Blue)
+ * [Portal Orange](Previews/Portal_Orange)
+ * [Retro](Previews/Retro)
+ * [Scratched Up](Previews/Scratched_Up)
  * [Super Mario World](Previews/Super_Mario_World)
+ * [Thanksgiving](Previews/Thanksgiving)
+ * [The Doc](Previews/The_Doc)
+ * [Twenty One Pilots](Previews/Twenty_One_Pilots)
+ * [Winter](Previews/Winter)
+ * [X-Miss](Previews/X-Miss)
 
 # Support
 
 
-I provide support on my [Discord Server](https://discord.gg/K6Gevwk) under the Support Category.
+I provide support on my [Discord Server](https://discord.gg/aSyUs69) under the Support Category.
 
 
 # Updates
 
 
-All my themes auto update, you will be notified of any new updates(includeing if a theme file redownload is needed) on my [Discord Server](https://discord.gg/K6Gevwk)
+All my themes auto update, you will be notified of any new updates(includeing if a theme file redownload is needed) on my [Discord Server](https://discord.gg/aSyUs69)
 
 
 # Wiki
 
 
-Found on the [Discord Server](https://discord.gg/K6Gevwk) under the Important Category.
+Found on the [Discord Server](https://discord.gg/aSyUs69) under the Important Category.
 
 
 # Guides
 
 
 [How To Install](https://www.youtube.com/watch?v=nXVAHmyoUTw&feature=youtu.be)
+[How To USe Font Theme](https://www.youtube.com/watch?v=MGu8zOvITb8)
 
 
 # Sponsors
 
-Found on the [Discord Server](https://discord.gg/K6Gevwk) under the Important 2 Category.
+Found on the [Discord Server](https://discord.gg/aSyUs69) under the Important 2 Category.
