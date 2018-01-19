@@ -27,11 +27,11 @@ or
  * [X-Miss](https://betterdiscord.net/ghdl?id=1168)
  * [One Up](https://betterdiscord.net/ghdl?id=1202)
  * [Super Mario World](https://betterdiscord.net/ghdl?id=1203)
- * [Mari Ohara] (https://betterdiscord.net/ghdl?id=1282)
- * [Mitsuki] (https://betterdiscord.net/ghdl?id=1283)
- * [Retro] (https://betterdiscord.net/ghdl?id=1284)
- * [The Doc] (https://betterdiscord.net/ghdl?id=1285)
- * [Twenty One Pilots] (https://betterdiscord.net/ghdl?id=1285)
+ * [Mari Ohara](https://betterdiscord.net/ghdl?id=1282)
+ * [Mitsuki](https://betterdiscord.net/ghdl?id=1283)
+ * [Retro](https://betterdiscord.net/ghdl?id=1284)
+ * [The Doc](https://betterdiscord.net/ghdl?id=1285)
+ * [Twenty One Pilots](https://betterdiscord.net/ghdl?id=1286)
 
 
 # Mini/Nano Themes
