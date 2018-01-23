@@ -86,6 +86,8 @@ All my themes auto update, you will be notified of any new updates(includeing if
 
 
 Found on the [Discord Server](https://discord.gg/aSyUs69) under the Important Category.
+Or
+[Here](https://github.com/NFLD99/Better-Discord/wiki)
 
 
 # Guides
