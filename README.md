@@ -32,6 +32,8 @@ or
  * [Retro](https://betterdiscord.net/ghdl?id=1284)
  * [The Doc](https://betterdiscord.net/ghdl?id=1285)
  * [Twenty One Pilots](https://betterdiscord.net/ghdl?id=1286)
+ * [An Orion Deep Field](https://betterdiscord.net/ghdl?id=1679)
+ * [420](https://betterdiscord.net/ghdl?id=1680)
 
 
 # Mini/Nano Themes
@@ -69,6 +71,8 @@ or
  * [Twenty One Pilots](Previews/Twenty_One_Pilots)
  * [Winter](Previews/Winter)
  * [X-Miss](Previews/X-Miss)
+ * [An Orion Deep Field](Previews/An_Orion_Deep_Field)
+ * [420](Previews/420)
 
 # Support
 
