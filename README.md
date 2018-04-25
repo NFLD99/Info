@@ -3,7 +3,7 @@ Downloads, Previews, Support, Updates, Wikis, Guides and Sponsors are found on m
 
 You can view my source from the [Main Repo](https://github.com/NFLD99/Better-Discord)
 
-If you wish to donate to my [PayPal](https://www.paypal.me/NFLD99) you can, All donations are greatly appreciated and not necessary just a way to show your support. {+a discord role, in the future an icon for your discord}
+If you wish to donate to my [PayPal](https://www.paypal.me/NFLD99) or become a [Patreon](https://www.patreon.com/NFLD99) you can, All donations are greatly appreciated and not necessary just a way to show your support. {+a discord role and an icon for your discord}
 
 Everything else
 (Because someone did not like this readme you know who you are) 
