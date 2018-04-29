@@ -140,8 +140,8 @@ Or
 # Guides
 
 
-[How To Install](https://www.youtube.com/watch?v=nXVAHmyoUTw&feature=youtu.be)
-[How To USe Font Theme](https://www.youtube.com/watch?v=MGu8zOvITb8)
+* [How To Install](https://www.youtube.com/watch?v=nXVAHmyoUTw&feature=youtu.be)
+* [How To Use Font Theme](https://www.youtube.com/watch?v=MGu8zOvITb8)
 
 
 # Sponsors
