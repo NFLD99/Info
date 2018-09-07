@@ -1,0 +1,123 @@
+:root{
+    --Main-Colour: rgba(0,226,204,.5);
+    --Background-Colour: rgba(48,48,48,1);
+    --Secondary-Background-Colour: rgba(0, 0, 0, 0.75);
+    --Background-Image: url(bkg.jpg);
+    --Background-Brightness: 0.5;
+    --Hover-Colour: rgb(0, 226, 204,1);
+    --Input-Background: rgba(0, 0, 0, 0.75);
+    --Input-Colour: rgba(112,106,116,.75);
+    --Border-Size: 2px;
+    --Border-Style: solid;
+    --Border-Radius: 50px;
+}
+
+::-webkit-scrollbar-track-piece {
+    border: transparent;
+    background: var(--Secondary-Background-Colour);
+}
+::-webkit-scrollbar-thumb:not(:hover) {
+    border: 1px solid var(--Main-Colour);
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+    border: 1px solid var(--Hover-Colour);
+    border-radius: 5px;
+}
+::-webkit-scrollbar {
+    max-width: 10px;
+}
+
+::selection{
+    background: var(--Secondary-Background-Colour);
+}
+
+a{
+    color: var(--Main-Colour);
+    text-decoration: none;
+}
+
+a:hover{
+    color: var(--Hover-Colour);
+    text-decoration: underline;
+}
+
+@font-face {
+    font-family: "ApexMk2-Regular";
+    src: url(ApexMk2-Regular.otf) format("opentype")
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+html, body {
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', 'Roboto', 'Arial', 'Helvetica', sans-serif;
+    background-image: var(--Background-Image);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-color: var(--Background-Colour);
+    background-attachment: fixed;
+    color: var(--Main-Colour);
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 106.8px;
+    background-color: var(--Background-Colour);
+    font-family: 'ApexMk2-Regular';
+}
+
+.header .heading {
+    font-weight: normal;
+    font-size: 42px;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.wrap2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.wrap,.wrap2{
+    background: rgba(0, 0, 0, var(--Background-Brightness));
+}
+
+.header {
+    background: rgba(0, 0, 0, var(--Background-Brightness));
+    color: var(--Main-Colour);
+}
+
+.Copyright  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 12px;
+    font-weight: normal;
+    background: rgba(0,0,0,var(--Background-Brightness));
+    font-size: 12px;
+}
